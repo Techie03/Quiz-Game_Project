@@ -1,2 +1,3 @@
-# quiz-game
-quiz game using html,css and java script
+**PROJECT - QUIZ GAME USING HTML , CSS , JAVASCRIPT**
+
+QUIZ GAME - [CLICK HERE](https://techie03.github.io/quiz-game/)
